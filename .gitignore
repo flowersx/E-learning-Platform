@@ -1,0 +1,24 @@
+# React / Node
+node_modules/
+dist/
+
+# ASP.NET Core
+bin/
+obj/
+.vs/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Configurari locale si secrete
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+
+# Alte fisiere
+*.log
+.DS_Store
+Thumbs.dbs
